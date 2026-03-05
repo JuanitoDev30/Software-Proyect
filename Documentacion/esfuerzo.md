@@ -32,14 +32,14 @@ Tester
 
 Justificación
 
--
+- 
 
 # Gestión de Reportes
 
 | Historia de Usuario | Analista | Dev | Tester |
 | ------------------- | -------- | --- | ------ |
-| Crear Reporte       | 8        | 13  | 13     |
-| Mostrar Reporte     | 5        | 13  | 13     |
+| Crear Reporte       | 13       | 8   | 13     |
+| Mostrar Reporte     | 5        | 8   | 8       |
 
 Justificación
 
@@ -49,8 +49,8 @@ Justificación
 
 | Historia de Usuario | Analista | Dev | Tester |
 | ------------------- | -------- | --- | ------ |
-| Crear Venta         | 8        | 13  | 13     |
-| Modificar Venta     | 5        | 13  | 13     |
+| Crear Venta         | 8        | 21  | 21    |
+| Modificar Venta     | 8       | 21  | 21     |
 
 Justificación
 
@@ -71,25 +71,15 @@ Justificación
 
 | Historia de Usuario | Analista | Dev | Tester |
 | ------------------- | -------- | --- | ------ |
-| Crear Pedido        | 8        | 13  | 13     |
-| Modificar Pedido    | 5        | 13  | 13     |
-| Eliminar Pedido     | 3        | 5   | 5      |
+| Crear Pedido        | 13       | 21  | 21     |
+| Modificar Pedido    | 8        | 13  | 13     |
+
 
 Justificación
 
 -
 
-# Automatización Inteligente
 
-| Historia de Usuario             | Analista | Dev | Tester |
-| ------------------------------- | -------- | --- | ------ |
-| Responder consultas automáticas | 8        | 13  | 13     |
-| Crear pedido vía chatbot        | 8        | 13  | 13     |
-| Escalamiento a humano           | 5        | 8   | 8      |
-
-Justificación
-
--
 
 # Resumen Total de Esfuerzo
 
