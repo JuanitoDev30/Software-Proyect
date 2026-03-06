@@ -30,9 +30,7 @@ Tester
 | Modificar Producto  | 5        | 13  | 13     |
 | Eliminar Producto   | 3        | 5   | 5      |
 
-Justificación
 
-- 
 
 # Gestión de Reportes
 
@@ -41,9 +39,7 @@ Justificación
 | Crear Reporte       | 13       | 8   | 13     |
 | Mostrar Reporte     | 5        | 8   | 8       |
 
-Justificación
 
--
 
 # Gestión de Ventas
 
@@ -52,9 +48,7 @@ Justificación
 | Crear Venta         | 8        | 21  | 21    |
 | Modificar Venta     | 8       | 21  | 21     |
 
-Justificación
 
--
 
 # Gestión de Usuarios
 
@@ -63,9 +57,7 @@ Justificación
 | Crear Usuario       | 8        | 13  | 13     |
 | Modificar Usuario   | 5        | 13  | 13     |
 
-Justificación
 
--
 
 # Gestión de Pedidos
 
@@ -75,12 +67,13 @@ Justificación
 | Modificar Pedido    | 8        | 13  | 13     |
 
 
-Justificación
-
--
-
 
 
 # Resumen Total de Esfuerzo
 
--
+- En el grupo se dedujo la mediana de la complejidad del esfuerzo por cada gestión, dando lugar a:
+Gestión de inventario: 13
+Gestión de reportes: 8
+Gestión de ventas: 21
+Gestión de usuarios: 13
+Gestión de pedidos:13
