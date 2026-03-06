@@ -41,7 +41,7 @@ Generar indicadores de desempeño.
 
 Escalar operaciones sin aumentar proporcionalmente el recurso humano.
 
-La automatización inteligente permitirá que el personal intervenga únicamente en situaciones que requieran criterio humano o validaciones estratégicas.
+La automatización inteligente permitirá que el personal intervenga únicamente en situaciones que requieran criterio humano o validaciones estratégicas
 
 ---
 
